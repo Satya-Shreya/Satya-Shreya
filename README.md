@@ -4,8 +4,6 @@
      style="margin-left: 200px;" 
      alt="Programmer working on web development">
 
-
-
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">Aspiring Full Stack Developer proficient in PHP, Node.js, and React, with a keen interest in Cloud & DevOps. Passionate about building scalable and resilient web solutions.</h3>
 
@@ -17,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bodhini satya shreya grandhisiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bodhini satya shreya grandhisiri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bodhini-satya-shreya-grandhisiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bodhini-satya-shreya-grandhisiri" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/g_shreya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="g_shreya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gbodhinisatyash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gbodhinisatyash1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gbodhinisatyash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gbodhinisatyash1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gbodhinisatyashreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gbodhinisatyashreya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyashreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyashreya" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bodhinisatyashra70q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bodhinisatyashra70q" height="30" width="40" /></a>
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satya-shreya&show_icons=true&locale=en" alt="satya-shreya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya-shreya&" alt="satya-shreya" /></p>
+
