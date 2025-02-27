@@ -1,7 +1,7 @@
 <img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-251.jpg" 
      height="300" 
      width="500" 
-     style="padding-left: 400px;" 
+     style="margin-left: 200px;" 
      alt="Programmer working on web development">
 
 
