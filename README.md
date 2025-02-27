@@ -1,4 +1,9 @@
-<img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-251.jpg" height="300" width="300" alt="Programmer working on web development">
+<img src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-251.jpg" 
+     height="300" 
+     width="500" 
+     style="padding-left: 400px;" 
+     alt="Programmer working on web development">
+
 
 
 <h1 align="center">Hi 👋, I'm Shreya</h1>
